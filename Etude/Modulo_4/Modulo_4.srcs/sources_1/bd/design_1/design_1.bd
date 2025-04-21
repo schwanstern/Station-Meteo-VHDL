@@ -1,0 +1,25 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x0",
+      "device": "xc7a35tcpg236-1",
+      "gen_directory": "../../../../Modulo_4.gen/sources_1/bd/design_1",
+      "name": "design_1",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2024.2"
+    },
+    "design_tree": {
+      "axi_iic_0": ""
+    },
+    "components": {
+      "axi_iic_0": {
+        "vlnv": "xilinx.com:ip:axi_iic:2.1",
+        "ip_revision": "9",
+        "xci_name": "design_1_axi_iic_0_0",
+        "xci_path": "ip\\design_1_axi_iic_0_0\\design_1_axi_iic_0_0.xci",
+        "inst_hier_path": "axi_iic_0"
+      }
+    }
+  }
+}
