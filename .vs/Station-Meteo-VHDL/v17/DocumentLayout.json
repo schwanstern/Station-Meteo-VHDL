@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artha\\Documents\\GitHub\\Station-Meteo-VHDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artha\\Documents\\GitHub\\Station-Meteo-VHDL\\Etude\\Project_R3-15\\FP1\\FP1.srcs\\sources_1\\new\\FS12_Diviseur_Frequence.vhd||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Etude\\Project_R3-15\\FP1\\FP1.srcs\\sources_1\\new\\FS12_Diviseur_Frequence.vhd||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FS12_Diviseur_Frequence.vhd",
+              "DocumentMoniker": "C:\\Users\\artha\\Documents\\GitHub\\Station-Meteo-VHDL\\Etude\\Project_R3-15\\FP1\\FP1.srcs\\sources_1\\new\\FS12_Diviseur_Frequence.vhd",
+              "RelativeDocumentMoniker": "Etude\\Project_R3-15\\FP1\\FP1.srcs\\sources_1\\new\\FS12_Diviseur_Frequence.vhd",
+              "ToolTip": "C:\\Users\\artha\\Documents\\GitHub\\Station-Meteo-VHDL\\Etude\\Project_R3-15\\FP1\\FP1.srcs\\sources_1\\new\\FS12_Diviseur_Frequence.vhd",
+              "RelativeToolTip": "Etude\\Project_R3-15\\FP1\\FP1.srcs\\sources_1\\new\\FS12_Diviseur_Frequence.vhd",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFRSURBVDhP7ZTBTsJAEIb/li2tm9mGcieBoAeThuCBkw/CUR/BhAegJtx8CT3zMHpYg8agHiDRk7ptlBTIerG1VCKQePDAl0x25p/Jf5nNAH\u002BJ1jovbdkcIy/cDYddy3ICw/jRWkRrxNNJsFevn2ZlM1tcD267jNmrzQDAMMCYHUh5c7IgJ4kcDI74Dp0XCoVsfyXz\u002BRzvUXTs\u002B/sXSAyllE2H06VlFfPzazGNY0w\u002BogPf968MAOh0Og9Symp\u002BcBNardZrr9fzTAAQQlSVUlChwnh3jLfoDUopKKUQhmGa/xaMsRKSpRARhBAoHhbROGtg1pxBCAEiSnvZN8mzNREhNeScg4hQvi9jFIxQeaosNVhmlNSc829Dx3HgeR5cclF7rsElNx1cJzzPg23bQLLlfr//whgrfR0LrbU2ACD5j6uOiGmaiOP4sd1u1/K9Lf\u002BAT/QsgNAO3mrXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-21T16:01:34.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
